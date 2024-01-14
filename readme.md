@@ -19,20 +19,18 @@
 
 **结果展示：**
 
-![image-20240114161648876](/home/flkbme_/.config/Typora/typora-user-images/image-20240114161648876.png)
-
-<img src="/home/flkbme_/Desktop/CodeSpace/task/imgs/place_da/地区与蔬菜价格关系.png" alt="地区与蔬菜价格关系" style="zoom:72%;" />
+![image-20240114161648876](./src/imgs/image-20240114161648876.png)
 
 <img src="/home/flkbme_/Desktop/CodeSpace/task/imgs/place_da/蔬菜地区占比.png" alt="蔬菜地区占比" style="zoom:72%;" />
 
-![蔬菜价格曲线](/home/flkbme_/Desktop/CodeSpace/task/imgs/price_curve/蔬菜价格曲线.png)
+![蔬菜价格曲线](./src/imgs/蔬菜价格曲线.png)
 
-![水果最低价统计](/home/flkbme_/Desktop/CodeSpace/task/imgs/price_da/高低价统计/水果最低价统计.png)
+![水果最低价统计](./src/imgs/水果最低价统计.png)
 
-![水果最低均价统计](/home/flkbme_/Desktop/CodeSpace/task/imgs/price_da/高低价统计/水果最低均价统计.png)
+![水果最低均价统计](./src/imgs/水果最低均价统计.png)
 
-![水果最高价统计](/home/flkbme_/Desktop/CodeSpace/task/imgs/price_da/高低价统计/水果最高价统计.png)
+![水果最高价统计](./src/imgs/水果最高价统计.png)
 
-![水果价格分布](/home/flkbme_/Desktop/CodeSpace/task/imgs/price_da/均价分析/水果价格分布.png)
+![水果价格分布](./src/imgs/水果价格分布.png)
 
-![水果均价统计](/home/flkbme_/Desktop/CodeSpace/task/imgs/price_da/均价分析/水果均价统计.png)
+![水果均价统计](./src/imgs/水果均价统计.png)
